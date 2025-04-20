@@ -1,6 +1,5 @@
 <div align="center">
   <img src="assets/tix-logo.png" alt="TIX Logo" width="200"/>
-  <h1>TIX</h1>
   <p>La billetterie événementielle nouvelle génération</p>
   
   [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
