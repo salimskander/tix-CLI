@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" alt="TIX Logo" width="200"/>
+  <img src="assets/tix-logo.png" alt="TIX Logo" width="200"/>
   <h1>TIX</h1>
   <p>La billetterie événementielle nouvelle génération</p>
   
@@ -48,5 +48,6 @@ TIX révolutionne l'expérience de la billetterie mobile en connectant organisat
 
 ## Auteurs
 
-- Eliott Bregere
 - Salim Skander
+- Eliott Bregere
+
